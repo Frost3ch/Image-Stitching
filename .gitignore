@@ -2,3 +2,5 @@
 *.jpg
 *.png
 *.JPG
+store/*
+test_stuff/*
