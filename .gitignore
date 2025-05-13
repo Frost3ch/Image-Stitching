@@ -1,6 +1,6 @@
-.venv/*
+.venv/
 *.jpg
 *.png
 *.JPG
-store/*
-test_stuff/*
+store/
+test_stuff/
