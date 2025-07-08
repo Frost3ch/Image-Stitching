@@ -79,7 +79,6 @@ def main():
     ref_image_path = './unstitchedImages/ref2.jpg'
     ref_image = cv2.imread(ref_image_path)
     if ref_image is None:
-        print(f"Error: Could not read reference image at {ref_image_path}")
         return
     ref_h, ref_w, _ = ref_image.shape
 
